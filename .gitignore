@@ -1,0 +1,19 @@
+# Ignore node_modules directory (common for Node.js projects)
+node_modules/
+
+# Ignore all .log files
+*.log
+
+# Ignore .env files (to keep environment variables secure)
+.env
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore IDE and editor settings
+.vscode/
+.idea/
+
+# Ignore build or output directories
+dist/
+build/
